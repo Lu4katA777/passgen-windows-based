@@ -1,7 +1,7 @@
 # PassGen Windows based
 Modern password generator for Windows, designed and developed from scratch using Python.
 
-
+![Logo](images/c0b794fe-bab8-4ee4-b102-03c01fff82c8.png)     
 
 # PassGen Windows
 
@@ -22,7 +22,7 @@ Modern password generator for Windows built with Python.
 
 ## Screenshot
 
-
+![Screenshot](images/screenshot.png)
 
 ---
 
