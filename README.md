@@ -23,7 +23,6 @@ Modern password generator for Windows built with Python.
 ## Screenshot
 
 ![Screenshot](images/screenshotPGW.png)
-
 ---
 
 ## Installation
